@@ -4,7 +4,7 @@ DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Can
 <summary>
   <b>DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis</b>.
   <a href="" target="blank">[HTML]</a>
-    <br><em><a>Chao Tu</a>, <br><em><a>Kun Huang</a>, <br><em><a>Jie Zhang</a>, <br><em><a>Qianjin Feng</a>, <a>Yu Zhang*</a>, <a>Zhenyuan Ning*</a></em></br>
+    <br><em><a>Chao Tu</a>, <a>Kun Huang</a>, <a>Jie Zhang</a>, <a>Qianjin Feng</a>, <a>Yu Zhang*</a>, <a>Zhenyuan Ning*</a></em></br>
 </summary>
 
 ```bash
