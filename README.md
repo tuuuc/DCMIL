@@ -1,10 +1,10 @@
-Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Images
+DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis
 =====================================
 <details>
 <summary>
-  <b>Dual-Curriculum Contrastive Multi-Instance Learning for Cancer Prognosis Analysis with Whole Slide Images</b>.
+  <b>DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis</b>.
   <a href="" target="blank">[HTML]</a>
-    <br><em><a>Chao Tu</a>, <a>Yu Zhang*</a>, <a>Zhenyuan Ning*</a></em></br>
+    <br><em><a>Chao Tu</a>, <br><em><a>Kun Huang</a>, <br><em><a>Jie Zhang</a>, <br><em><a>Qianjin Feng</a>, <a>Yu Zhang*</a>, <a>Zhenyuan Ning*</a></em></br>
 </summary>
 
 ```bash
