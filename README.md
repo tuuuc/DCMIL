@@ -8,7 +8,12 @@ DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Pr
 </summary>
 
 ```bash
-
+@article{tu2025dcmil,
+  title={DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis},
+  author={Tu, Chao and Huang, Kun and Zhang, Jie and Feng, Qianjin and Zhang, Yu and Ning, Zhenyuan},
+  journal={arXiv preprint arXiv:2510.14403},
+  year={2025}
+}
 ```
 </details>
 
@@ -20,7 +25,12 @@ The burgeoning discipline of computational pathology shows promise in harnessing
 ## License & Usage 
 If you find our work useful in your research, please consider citing our paper at:
 ```bash
-
+@article{tu2025dcmil,
+  title={DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis},
+  author={Tu, Chao and Huang, Kun and Zhang, Jie and Feng, Qianjin and Zhang, Yu and Ning, Zhenyuan},
+  journal={arXiv preprint arXiv:2510.14403},
+  year={2025}
+}
 @article{tu2022dual,
   title={Dual-curriculum contrastive multi-instance learning for cancer prognosis analysis with whole slide images},
   author={Tu, Chao and Zhang, Yu and Ning, Zhenyuan},
